@@ -26,7 +26,7 @@
  
 </div>
   
-  - 🔭 Desenvolvo aplicativos e sites
+ - 🔭 Desenvolvo aplicativos e sites
 - 🌱 Estudando Dart/Flutter
-- 📫 Contrate-me no email: marcelocrastok3@gmail.com
+- 📫 Contrate-me no e-mail: marcelocrastok3@gmail.com
 - 😄 Pronouns: ele/dele
